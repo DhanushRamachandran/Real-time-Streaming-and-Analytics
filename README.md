@@ -12,6 +12,8 @@ The primary objective of this analytics project is to understand and compare the
 
 By leveraging continuous streaming and weekly aggregated analytics, the project aims to derive actionable insights into customer demand, pricing efficiency, and competitive dynamics.
 
+The particular analysis is done after gathering real-time data for 2,15,000 rides at NYC.
+
 # Specific Goals
 
 ## Market Share Analysis
@@ -201,7 +203,7 @@ KPI	Formula / Metric	Meaning
 2.48%	(Tolls ÷ Total amount) × 100	Proportion of tolls in overall fare
 2.71M	Sum of total_amount	Total revenue from all trips (aggregated)
 
-Key Findings
+# Key Findings
 Uber holds the dominant fare market share compared to Ola, as represented in the market share pie chart.
 
 The average fare over each hour reveals that both Ola and Uber have peaks and troughs, but Uber generally maintains higher average fares throughout the day.
