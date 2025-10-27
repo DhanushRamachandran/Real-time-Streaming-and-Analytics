@@ -124,10 +124,7 @@ Tagging vendor name (Uber/Ola)
 
 🚕 Fare Analysis Dashboard – Key Metrics & Visuals
 
-
-<img width="923" height="365" alt="image" src="https://github.com/user-attachments/assets/862f744f-6bfd-4768-8e1c-91aa30538f98" />
-
-
+<img width="1843" height="732" alt="image" src="https://github.com/user-attachments/assets/c578c0a8-b65a-481c-917e-8174ee788687" />
 
 1. Market Metrics
 
