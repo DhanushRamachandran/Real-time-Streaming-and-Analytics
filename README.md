@@ -206,16 +206,27 @@ KPI	Formula / Metric	Meaning
 # Key Findings
 
 •   Uber holds the dominant fare market share compared to Ola, as represented in the market share pie chart.
+
 •	The average fare over each hour reveals that both Ola and Uber have peaks and troughs, but Uber generally maintains higher average fares throughout the day.
+
 •	Most fares are concentrated around Thursday, Friday, and Saturday, with little variation in the total fare across these days.
+
 •	Fare per kilometer trends show distinct daily and hourly patterns, with Uber consistently coming out on top in fare pricing.
+
 •	The fare breakdown indicates that the core fare component forms the majority of the total fare, while airport fees, surcharges, taxes, tips, and tolls collectively contribute less than 32% combined.
+
 •	Saturday sees the highest sum of tip amounts by weekday, indicating a potential trend where riders tip more on weekends.
+
 •	Insights Uber’s larger market presence translates into consistently higher fares per ride and per kilometer, signaling greater pricing power or customer preference.
+
 •	A significant majority (over two-thirds) of the total fare amount comes directly from the base fare, with additional components making up lesser portions, emphasizing the breakdown of ride costs for transparency.
+
 •	The proportional contribution of surcharges, taxes, tips, and tolls remain relatively modest, each below 3% of the total fare, making the fare structure simple and less sensitive to these non-core fees.
+
 •	The similar fare amounts across Thursday, Friday, and Saturday suggest potential uniform demand or pricing strategies on peak days.
+
 •	The detailed analysis of fare, tips, and surcharges by hour and day provides actionable insights for optimizing pricing, marketing, and operational strategies.
+
 
 
 
